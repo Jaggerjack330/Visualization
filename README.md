@@ -1,1 +1,2 @@
 # Visualization
+The Project named "Visualization" is the code for implementing the scale-free 3D terrain visualization base on detail-increment model. It uses the OpenSceneGraph engine to achieve 3D representation of terrain. The development platform for the project is Microsoft Visual Studio 2010. The version of OpenSceneGraph used in this project is 3.2.1. Before use the code, you need to configure the library environment for OpenSceneGraph and Pthread.
